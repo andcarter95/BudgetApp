@@ -62,7 +62,6 @@ function App() {
             <MobileNavbar className="mobileMenu" />
           </PageContainer>
         </AuthProvider>
-        <ReactQueryDevtools/>
       </QueryClientProvider>
     </div>
   );
